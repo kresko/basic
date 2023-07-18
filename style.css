@@ -8,6 +8,18 @@ body {
     flex-direction: column;
     font-family: 'Roboto';
 }
+/*************************** Default styles ****************************/
+.blue {
+    color:#3882F6;
+}
+
+.dark-blue {
+    background: #1F2937;
+}
+
+.white {
+    color: #fff;
+}
 
 /*************************** Header ****************************/
 .header {

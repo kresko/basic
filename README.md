@@ -1,2 +1,2 @@
 # basic
-Basic site!
+Basic website with website with simple design.
